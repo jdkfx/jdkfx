@@ -21,13 +21,27 @@
 
 ## Skills
 
- - PHP & MySQL
+ - PHP
  - Laravel
+ - JavaScript
+ - Vue.js
+ - MySQL
  - HTML & CSS
  - Bootstrap
  - Git
  - Vagrant
  - Heroku
+ - Firebase
+ 
+## Internship
+
+### 2020
+- **株式会社いい生活2020サマーインターン**
+	- 「Vue.jsで当社サービスのAPIを使ってチーム開発をしよう！」
+	- 9/7(月) ～ 9/11(金)
+- **NTTドコモ**
+	- ドコモハッカソン
+	- 9/16(水)〜9/18(金)
 
 ## Blog
 
