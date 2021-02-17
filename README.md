@@ -40,6 +40,10 @@
 	- Webアプリケーションのパフォーマンスを改善するリモート参加型のハッカソン
 	- 2月06日（土）～ 2月07日（日）
 
+## contribution
+- **Svelte docs (JP)**
+	- [svelte-site-jp](https://github.com/svelte-jp/svelte-site-jp)
+
 ## Blog
 
  - **はてなブログ** [リンク](https://orangefarmer.hatenablog.jp/)
